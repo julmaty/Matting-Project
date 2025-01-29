@@ -8,7 +8,7 @@
 
 ## Подготовка
 
-При подготовке работы были изучены научные статьи [Sam](https://arxiv.org/abs/2304.02643), [Sam2](https://arxiv.org/abs/2408.00714), [Matting Anything](https://arxiv.org/abs/2306.05399), RVB (https://peterl1n.github.io/RobustVideoMatting/#/).
+При подготовке работы были изучены научные статьи [Sam](https://arxiv.org/abs/2304.02643), [Sam2](https://arxiv.org/abs/2408.00714), [Matting Anything](https://arxiv.org/abs/2306.05399), [RVB](https://peterl1n.github.io/RobustVideoMatting/#/).
 В основе обучения лежит проект [Sam2](https://github.com/facebookresearch/sam2). В ходе исследования базовая модель была запущена - в ноутбуках, а также в виде демо.
 
 
